@@ -1,4 +1,4 @@
-Slot: Head or Back or hest
+Slot: Head or Back or Chest
 Strain: 4
 Overheat Die: 1d8
 Overheat Threshold: 3
