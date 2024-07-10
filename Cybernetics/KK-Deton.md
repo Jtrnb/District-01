@@ -2,7 +2,7 @@ Slot: Chest
 Strain: 2
 Overheat Die: N/A
 Overheat Threshold: 1 
-Ability: As a reaction you can detonate yourself causing all creatures within 60 feet of you to make a Dexterity saving throw or take the following damage, and half as much on a success. You automatically fail the save. 
+Ability: As a reaction you can start a detonation sequence. After 6 seconds (1 round) you detonate yourself causing all creatures within 60 feet of you to make a Dexterity saving throw or take the following damage, and half as much on a success. You automatically fail the save. 
 
 | Distance | Save | Damage                                | Knockback |
 | -------- | ---- | ------------------------------------- | --------- |
@@ -18,6 +18,6 @@ Overheat Ability: While this cybernetic is Overheated, double the table. Ex:
 
 | Distance | Save | Damage                                 | Knockback |
 | -------- | ---- | -------------------------------------- | --------- |
-| 0 ft     | Fail | 10d20 Force damage + 20d20 Fire damage | 120ft     |
-| 1-20ft   | 36   | 6d20 Force damage + 12d20 Fire damage  | 100ft     |
-| 21-40ft  | 32   | 4d20 Force damage + 8d20 Fire damage   | 80ft      |
+| 0 ft     | Fail | 10d10 Force damage + 20d10 Fire damage | 120ft     |
+| 1-20ft   | 36   | 6d10 Force damage + 12d10 Fire damage  | 100ft     |
+| 21-40ft  | 32   | 4d10 Force damage + 8d10 Fire damage   | 80ft      |
