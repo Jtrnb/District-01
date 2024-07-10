@@ -55,7 +55,7 @@ When a cybernetic is in the Overheated state, its Overheat abilities may be used
 
 During each rest 1 Overheat point is removed from each cybernetic. During a long rest you may spend hitdice to reduce these points further with 1 Overheat point per hitdice spent. This point only applies to one cybernetic. 
 
-#### Malfunction:
+#### <font style="color:#eb3d34">Malfunction</font>:
 When a cybernetic Malfunctions it closes up and stops working. While a cybernetic is malfunctioned its strain increases by half its current strain rounded up. 
 #### Types
 - [[ARC-Missile]]
