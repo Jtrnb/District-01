@@ -75,7 +75,7 @@ When a cybernetic Malfunctions it closes up and stops working. While a cyberneti
 - [[Nanite Harness]]
 - [[Particle Agitator]]
 - [[Pecsaw]]
-- [[PSG]]
+- [[PSG (Personal Shield Generator)]]
 - [[Radiocarpal Pistol]]
 - [[Raven]]
 - [[Scrapsaw Hand]]
