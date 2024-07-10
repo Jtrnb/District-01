@@ -10,7 +10,7 @@ Overheat Ability:
 - Eyes
 - Mouth
 - Chest
-- Shoulders
+- **Shoulders**
 - Spine
 - Back
 - Arms
